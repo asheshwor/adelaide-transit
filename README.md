@@ -6,11 +6,18 @@ Data source: http://adelaidemetro.com.au/GTFS/google_transit.zip from Adelaide M
 1. Transit routes
 ----------
 Mapping all transit routes.
+... 
 
 
 
 2. Stops
 ----------
 Mapping all stops.
+...
 
 ![Transit routes and stops.](Plots/route.png)
+
+
+2. Interactive maps
+----------
+...
