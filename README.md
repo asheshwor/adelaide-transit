@@ -15,6 +15,8 @@ Mapping all transit routes.
 Mapping all stops.
 ...
 
+![Transit routes and stops centered at CBD.](Plots/cbd.png)
+
 ![Transit routes and stops.](Plots/route.png)
 
 
