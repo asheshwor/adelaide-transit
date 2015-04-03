@@ -1,12 +1,13 @@
 Exploring public trasnit data for Adelaide and surroundings
 ---------
 
-Data source: http://adelaidemetro.com.au/GTFS/google_transit.zip from Adelaide Metro - Department of Planning Transport and Infrastructure, South Australia.
+GTFS data obtained under Creative Commons Attribution licence from https://data.sa.gov.au/dataset/adelaide-metro-general-transit-feed 
 
 1. Transit routes
 ----------
 Mapping all transit routes.
 ... 
+![Buses, trains and trams.](Plots/transitmap2.jpg)
 
 
 
